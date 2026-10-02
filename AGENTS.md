@@ -8,3 +8,8 @@
 > Commits you push to the connected branch sync back to Lovable and show up in
 > the editor, so keep the branch in a working state.
 <!-- LOVABLE:END -->
+
+## Project rules
+
+- Keep the landing page as a single scroll experience with in-page anchors because the brand story is designed as an immersive narrative.
+- Use semantic theme tokens and the shared Button component for interactive actions so the visual system stays consistent.
